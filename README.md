@@ -8,3 +8,5 @@ This repository contains my work related to Linux server administration, Git, an
 - GitHub Repository Setup
 - Linux Server Configurations
 - Bash Scripting Exercises
+
+Updated README in new-feature branch
